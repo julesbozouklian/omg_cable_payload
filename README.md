@@ -15,16 +15,16 @@ A wireless keylogger hidden inside a cable that leverages the power of the origi
 
 # How to get started
 
-1) Download the last firmware
+#### 1) Download the last firmware
  - https://github.com/O-MG/O.MG_Cable-Firmware/releases
 
-2) Flash the firmware
+#### 2) Flash the firmware
  - Plug the O.MG Cable into programmer
  - Plug programmer into computer
  - Run : ``` python3 -m pip install pyserial```
  - Run : ``` python ./flash.py ```
  - When flash has finished unplug the programmer an plug cable to victim
 
-3) Choose network mode and access web ui
+#### 3) Choose network mode and access web ui
  - Access Point mode = you can connect to the SSID specified during setup and cable will be accessible at http://192.168.4.1
  - Station mode = the cable connects as a client and will be accessible on your network
