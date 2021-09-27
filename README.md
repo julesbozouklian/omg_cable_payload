@@ -7,8 +7,8 @@ A wireless keylogger hidden inside a cable that leverages the power of the origi
 The directory contains payloads for linux, windows and osx.
 
 
-[WINDOWS](https://github.com/julesbozouklian/omg_cable_payload/windows/index.md)
+[WINDOWS](https://github.com/julesbozouklian/omg_cable_payload/blob/main/windows/index.md)
 
-[LINUX](https://github.com/julesbozouklian/omg_cable_payload/linux/index.md)
+[LINUX](https://github.com/julesbozouklian/omg_cable_payload/blob/main/linux/index.md)
 
-[OSX](https://github.com/julesbozouklian/omg_cable_payload/osx/index.md)
+[OSX](https://github.com/julesbozouklian/omg_cable_payload/blob/main/osx/index.md)
