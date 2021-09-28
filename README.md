@@ -2,7 +2,7 @@
 
 The O.MG Cable is a pentesting tool.  
 
-A wireless keylogger hidden inside a cable that leverages the power of the original O.MG cable so you can grab keystrokes, update payloads, and trigger keystorke injection attacks from anywhere.  
+A wireless keylogger hidden inside a cable that leverages the power of the original O.MG cable so you can grab keystrokes, update payloads, and trigger keystroke injection attacks from anywhere.  
 
 # Payload
 
