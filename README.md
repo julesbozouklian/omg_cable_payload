@@ -23,8 +23,9 @@ A wireless keylogger hidden inside a cable that leverages the power of the origi
  - Plug programmer into computer
  - Run : ``` python3 -m pip install pyserial```
  - Run : ``` python ./flash.py ```
+ - Choose network mode (Access Point mode or Station mode)
  - When flash has finished unplug the programmer an plug cable to victim
 
-#### 3) Choose network mode and access web ui
+#### 3) Network mode and access web ui
  - Access Point mode = you can connect to the SSID specified during setup and cable will be accessible at http://192.168.4.1
  - Station mode = the cable connects as a client and will be accessible on your network
