@@ -6,11 +6,11 @@ A wireless keylogger hidden inside a cable that leverages the power of the origi
 
 # Payload
 
-#### [WINDOWS](https://github.com/julesbozouklian/omg_cable_payload/blob/main/windows/index.md)
+#### [WINDOWS](https://github.com/julesbozouklian/omg_cable_payload/blob/main/windows/)
 
-#### [LINUX](https://github.com/julesbozouklian/omg_cable_payload/blob/main/linux/index.md)
+#### [LINUX](https://github.com/julesbozouklian/omg_cable_payload/blob/main/linux/)
 
-#### [OSX](https://github.com/julesbozouklian/omg_cable_payload/blob/main/osx/index.md)
+#### [OSX](https://github.com/julesbozouklian/omg_cable_payload/blob/main/osx/)
 
 
 # How to get started
